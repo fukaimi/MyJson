@@ -1,7 +1,7 @@
 {
     "name": "YHJson",
     "url": "",
-    "version": 0.0.1,
+    "version": "0.0.1",
     "info": {
         "street": "gml.",
         "city": "km",
@@ -21,8 +21,8 @@
              "istrue": "1"
         },
         {
-        	"name":"jinqi",
-        	 "istrue": "1"
+            "name":"jinqi",
+             "istrue": "1"
         }
     ]
 }
